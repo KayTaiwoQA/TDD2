@@ -227,7 +227,7 @@ public class Questions {
 	 * iBeforeE("height") → False
 	 */
 	public boolean iBeforeE(String input) {
-		return false;
+		return true;
 	}
 
 	/**

@@ -14,7 +14,7 @@ public class Runner {
 		System.out.println(stringMerge.zipped("True", "Tree"));
 		System.out.println(stringMerge.zipped("return", "letter"));
 		
-		Questions noDuplicateArray = new Questions();
+		//Questions noDuplicateArray = new Questions();
 		
 		Random random = new Random();
 
